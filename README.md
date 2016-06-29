@@ -14,7 +14,7 @@ tcpdump is a common packet analyzer that runs under the command line.
 
 [**Trusted Build**](https://hub.docker.com/r/uzyexe/tcpdump/)
 
-This Docker image is based on the [progrium/busybox](https://registry.hub.docker.com/u/progrium/busybox/) base image.
+This Docker image is based on the [alpine:3.4](https://hub.docker.com/_/alpine) base image.
 
 ## How to use this image
 
